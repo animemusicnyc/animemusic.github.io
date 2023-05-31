@@ -24,7 +24,7 @@ h1{
 
 .songinfo{
     display: inline-block;
-    overflow-x: scroll;
+    overflow: hidden;
     margin-right: 1em;
     margin-bottom: 1em;
 }
