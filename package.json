@@ -1,0 +1,35 @@
+{
+  "name": "animemusic.github.io",
+  "version": "1.0.0",
+  "description": "anime music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjpcnyc/animemusic.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjpcnyc/animemusic.github.io/issues"
+  },
+  "homepage": "https://github.com/pjpcnyc/animemusic.github.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^9.0.0",
+    "sass": "^1.64.2"
+  },
+  "dependencies": {
+    "gulp-clean": "^0.4.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-notify": "^4.0.0",
+    "gulp-ruby-sass": "^4.0.0",
+    "tiny-lr": "^2.0.0"
+  }
+}
