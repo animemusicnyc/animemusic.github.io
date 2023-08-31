@@ -1,0 +1,70 @@
+body {
+  margin-left: 2em;
+  padding: 20px;
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeueBoldCondensed", "HelveticaNeue-Bold-Condensed", "Helvetica Neue Bold Condensed", "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Neue Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosCnBold', "Helvetica", "Tahoma", "Geneva", "Arial Narrow", "Arial", sans-serif;
+  font-weight: 600;
+  font-stretch: condensed; }
+
+p {
+  margin: 0px; }
+
+.sectiontitle {
+  margin-bottom: 1.5em; }
+
+.maintitle {
+  font-weight: extra-bold;
+  font-size: 5em;
+  -webkit-text-stroke: 4px black;
+  letter-spacing: 1em;
+  margin-bottom: 10px;
+  width: 100%;
+  max-height: 300px; }
+
+.links {
+  margin: auto;
+  margin-bottom: 2em;
+  width: 40em; }
+  .links p {
+    margin-right: 5em;
+    display: inline-block; }
+
+@media (max-width: 640px) {
+  .featured {
+    text-align: center; } }
+
+.songinfo {
+  display: inline-block;
+  overflow: hidden;
+  margin-right: 1em;
+  margin-bottom: 1em; }
+
+.songlinks {
+  margin-right: 1em;
+  text-align: right; }
+
+.songart {
+  max-width: 300px; }
+
+.songtitle {
+  font-weight: bold;
+  font-size: 1.2em; }
+
+li {
+  list-style-type: none; }
+
+.ecsp .ecsp-SingleProduct-v2 .ecsp-Product .ecwid-SingleProduct-v2 .ec-storefront-v2 .loaded {
+  margin: 0px;
+  padding: 0px; }
+  .ecsp .ecsp-SingleProduct-v2 .ecsp-Product .ecwid-SingleProduct-v2 .ec-storefront-v2 .loaded div {
+    margin: 0px; }
+
+html#ecwid_html body#ecwid_body .ecsp.ecsp-SingleProduct-v2 .ecwid-btn--addToBag {
+  font-weight: 900;
+  background: white;
+  border: 2px solid black;
+  color: black;
+  text-align: right;
+  width: 10%;
+  color: blue;
+  margin-left: 100px;
+  text-decoration: underline; }
